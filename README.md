@@ -1,5 +1,6 @@
 # Stellar UI
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ee58c1d0d74c4f0681b38106b30b5d08)](https://app.codacy.com/gh/orphic-inc/stellar-ui?utm_source=github.com&utm_medium=referral&utm_content=orphic-inc/stellar-ui&utm_campaign=Badge_Grade)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ddbd8663fbd640aa96f4a89770a387d6)](https://app.codacy.com/gh/orphic-inc/stellar-ui/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 This is a React-based SPA/UI for Stellar, the next generation mirage.
